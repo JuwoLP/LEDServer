@@ -1,2 +1,2 @@
 # LEDServer
-A Raspberry Pi Program that lets you set the LEDs via Telnet.
+A Raspberry Pi program that lets you set the four onboard LEDs via Telnet.
